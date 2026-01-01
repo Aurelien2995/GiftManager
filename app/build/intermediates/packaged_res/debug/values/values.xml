@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="occasions">
+        <item>Anniversaire</item>
+        <item>Noël</item>
+        <item>Autre</item>
+    </string-array>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="purple_500">#6200EE</color>
+    <string name="app_name">GiftManager</string>
+    <string name="birthday">Anniversaire</string>
+    <string name="delete">Supprimer</string>
+    <string name="description">Description</string>
+    <string name="gift">Cadeau</string>
+    <string name="link">Lien</string>
+    <string name="modify">Modifier</string>
+    <string name="personName">Prénom</string>
+    <string name="price">Prix</string>
+    <string name="save">Enregistrer</string>
+</resources>

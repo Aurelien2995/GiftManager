@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GiftManager</string>
+    <string name="modify">Modifier</string>
+    <string name="delete">Supprimer</string>
+    <string name="save">Enregistrer</string>
+    <string name="personName">Prénom</string>
+    <string name="birthday">Anniversaire</string>
+    <string name="gift">Cadeau</string>
+    <string name="description">Description</string>
+    <string name="price">Prix</string>
+    <string name="link">Lien</string>
+    <string-array name="occasions">
+        <item>Anniversaire</item>
+        <item>Noël</item>
+        <item>Autre</item>
+    </string-array>
+</resources>

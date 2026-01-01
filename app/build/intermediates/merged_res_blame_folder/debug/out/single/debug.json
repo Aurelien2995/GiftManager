@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-xhdpi_add.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-xhdpi/add.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-xxxhdpi_ic_more_vert.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-xxxhdpi/ic_more_vert.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/layout_fragment_gift_list.xml.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-main-37:/layout/fragment_gift_list.xml"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-xxhdpi_ic_more_vert.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-xxhdpi/ic_more_vert.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/layout_fragment_add_gift.xml.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-main-37:/layout/fragment_add_gift.xml"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/layout_fragment_person_list.xml.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-main-37:/layout/fragment_person_list.xml"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/menu_menu_card.xml.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-main-37:/menu/menu_card.xml"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-xhdpi_calendar.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-xhdpi/calendar.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-mdpi_gift.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-mdpi/gift.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-anydpi-v21_calendar.xml.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-anydpi-v21/calendar.xml"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-hdpi_ic_more_vert.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-hdpi/ic_more_vert.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-ldpi_calendar.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-ldpi/calendar.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-xxxhdpi_calendar.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-xxxhdpi/calendar.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-hdpi_gift.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-hdpi/gift.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-xxxhdpi_add.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-xxxhdpi/add.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/layout_item_gift.xml.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-main-37:/layout/item_gift.xml"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-hdpi_add.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-hdpi/add.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-xhdpi_person.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-xhdpi/person.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-ldpi_person.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-ldpi/person.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/layout_fragment_add_person.xml.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-main-37:/layout/fragment_add_person.xml"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-xhdpi_gift.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-xhdpi/gift.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-xxhdpi_add.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-xxhdpi/add.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-mdpi_add.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-mdpi/add.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-mdpi_calendar.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-mdpi/calendar.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.giftmanager.app-merged_res-35:/layout_item_person.xml.flat",
+        "source": "com.example.giftmanager.app-main-37:/layout/item_person.xml"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-mdpi_person.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-mdpi/person.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-hdpi_person.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-hdpi/person.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-xxhdpi_person.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-xxhdpi/person.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-xxhdpi_gift.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-xxhdpi/gift.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/layout_item_person.xml.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-main-37:/layout/item_person.xml"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-xhdpi_ic_more_vert.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-xhdpi/ic_more_vert.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-hdpi_calendar.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-hdpi/calendar.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-ldpi_gift.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-ldpi/gift.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-ldpi_ic_more_vert.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-ldpi/ic_more_vert.png"
+    },
+    {
+        "merged": "com.example.giftmanager.app-merged_res-35:/layout_item_gift.xml.flat",
+        "source": "com.example.giftmanager.app-main-37:/layout/item_gift.xml"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-xxxhdpi_person.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-xxxhdpi/person.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-mdpi_ic_more_vert.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-mdpi/ic_more_vert.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-xxhdpi_calendar.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-xxhdpi/calendar.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-anydpi-v21_person.xml.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-anydpi-v21/person.xml"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-anydpi-v21_ic_more_vert.xml.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-anydpi-v21/ic_more_vert.xml"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-ldpi_add.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-ldpi/add.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-anydpi-v21_add.xml.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-anydpi-v21/add.xml"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-anydpi-v21_gift.xml.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-anydpi-v21/gift.xml"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-xxxhdpi_gift.png.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-xxxhdpi/gift.png"
+    },
+    {
+        "merged": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-merged_res-35:/drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
+        "source": "/home/aurelien/.jdks/corretto-21.0.6/daemon/8.5/com.example.giftmanager.app-pngs-31:/drawable-anydpi-v21/ic_launcher_foreground.xml"
+    }
+]
