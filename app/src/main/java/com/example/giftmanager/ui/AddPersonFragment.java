@@ -15,6 +15,7 @@ import android.widget.EditText;
 import com.example.giftmanager.R;
 import com.example.giftmanager.data.AppDatabase;
 import com.example.giftmanager.data.entities.Person;
+import com.example.giftmanager.utils.NotificationUtils;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
@@ -53,7 +54,7 @@ public class AddPersonFragment extends Fragment {
         etName = v.findViewById(R.id.etPersonName);
         etBirthday = v.findViewById(R.id.etBirthday);
 
-        if (personId != null) {
+        if (personId != null && personId != -1) {
             loadPerson(personId);
         }
 
@@ -75,7 +76,7 @@ public class AddPersonFragment extends Fragment {
                     calendar.set(Calendar.MONTH, selectedMonth);
                     calendar.set(Calendar.DAY_OF_MONTH, selectedDay);
 
-                    SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy", Locale.getDefault());
+                    SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd", Locale.getDefault());
                     etBirthday.setText(sdf.format(calendar.getTime()));
                 },
                 year, month, day
@@ -96,9 +97,21 @@ public class AddPersonFragment extends Fragment {
     private void savePerson(){
         String name = etName.getText().toString().trim();
         String birthday = etBirthday.getText().toString().trim();
-        if(name.isEmpty()) return;
-        AppDatabase db = AppDatabase.getInstance(getContext());
-        db.personDao().insert(new Person(name, birthday));
+        if (name.isEmpty()) return;
+
+        AppDatabase db = AppDatabase.getInstance(requireContext());
+
+        if (personToEdit != null) {
+            personToEdit.name = name;
+            personToEdit.birthday = birthday;
+            db.personDao().update(personToEdit);
+            NotificationUtils.scheduleBirthday(requireContext(), personToEdit);
+        } else {
+            Person p = new Person(name, birthday);
+            long id = db.personDao().insert(p);
+            p.id = (int) id;
+            NotificationUtils.scheduleBirthday(requireContext(), p);
+        }
         getParentFragmentManager().popBackStack();
     }
 }
