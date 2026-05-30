@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:1:1-18:12
-INJECTED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:1:1-18:12
-INJECTED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:1:1-18:12
-INJECTED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:1:1-18:12
+ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:1:1-24:12
+INJECTED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:1:1-24:12
+INJECTED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:1:1-24:12
+INJECTED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:1:1-24:12
 MERGED from [com.google.android.material:material:1.9.0] /home/aurelien/.jdks/corretto-21.0.6/caches/transforms-3/55237e4da2be5311714393a71181380a/transformed/material-1.9.0/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/aurelien/.jdks/corretto-21.0.6/caches/transforms-3/1a138cdd78d296de489461e1e3d27ac8/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/aurelien/.jdks/corretto-21.0.6/caches/transforms-3/27d21592f0b6d035b38b19f1cfb89dbc/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
@@ -58,9 +58,17 @@ MERGED from [androidx.print:print:1.0.0] /home/aurelien/.jdks/corretto-21.0.6/ca
 		INJECTED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:4:5-77
+	android:name
+		ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:4:22-74
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:5:22-76
 application
-ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:4:5-17:19
-INJECTED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:4:5-17:19
+ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:7:5-23:19
+INJECTED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:7:5-23:19
 MERGED from [com.google.android.material:material:1.9.0] /home/aurelien/.jdks/corretto-21.0.6/caches/transforms-3/55237e4da2be5311714393a71181380a/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.9.0] /home/aurelien/.jdks/corretto-21.0.6/caches/transforms-3/55237e4da2be5311714393a71181380a/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/aurelien/.jdks/corretto-21.0.6/caches/transforms-3/1a138cdd78d296de489461e1e3d27ac8/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -84,31 +92,37 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/aurel
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] /home/aurelien/.jdks/corretto-21.0.6/caches/transforms-3/c2439a6aacd7c2d8dfb8fbadfe6ab07c/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 	android:label
-		ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:6:9-36
+		ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:9:9-36
 	android:roundIcon
-		ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:8:9-54
+		ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:5:9-35
+		ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:9:9-53
+		ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:12:9-53
 activity#com.example.giftmanager.MainActivity
-ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:10:9-16:20
+ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:13:9-19:20
 	android:exported
-		ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:11:13-36
+		ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:10:19-70
+		ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:13:19-70
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:12:13-15:29
+ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:15:13-18:29
 action#android.intent.action.MAIN
-ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:13:17-69
+ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:13:25-66
+		ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:14:17-77
+ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:14:27-74
+		ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:17:27-74
+receiver#com.example.giftmanager.utils.BirthdayReceiver
+ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:20:9-22:40
+	android:exported
+		ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml:21:13-51
 uses-sdk
 INJECTED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/aurelien/AndroidStudioProjects/GiftManager/app/src/main/AndroidManifest.xml
